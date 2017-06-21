@@ -3,5 +3,5 @@ project(cpp_primer)
 
 set(CMAKE_CXX_STANDARD 11)
 
-set(SOURCE_FILES main.cpp)
+set(SOURCE_FILES main.cpp while-loop.cpp)
 add_executable(cpp_primer ${SOURCE_FILES})
